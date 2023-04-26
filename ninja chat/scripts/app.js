@@ -1,5 +1,5 @@
 // DOM queries
-const chatList = document.querySelector('.class-list');
+const chatList = document.querySelector('.chat-list');
 
 // class instances
 const chatUI = new ChatUI(chatList);
